@@ -1,0 +1,18 @@
+ Student Name : Sourish Sarkar 
+ Class Roll-number: 18 
+ Stream : ECE 
+ Student ID : ECE2218
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 89 
+ Chemistry :- 90 
+ Electrical :- 77 
+ Mechanics :- 67 
+ PythonProgramming :- 58 
+ Biology :- 54 
+
+Total marks out of 600 is : 435 and Percentage scored is : 72%
+Your Performance has been Very Good...
+ Grade obtained is :- C.

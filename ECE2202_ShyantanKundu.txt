@@ -1,0 +1,18 @@
+ Student Name : Shyantan Kundu 
+ Class Roll-number: 02 
+ Stream : ECE 
+ Student ID : ECE2202
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 94 
+ Chemistry :- 95 
+ Electrical :- 96 
+ Mechanics :- 97 
+ PythonProgramming :- 98 
+ Biology :- 99 
+
+Total marks out of 600 is : 579 and Percentage scored is : 96%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

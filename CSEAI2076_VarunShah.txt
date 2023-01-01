@@ -1,0 +1,18 @@
+ Student Name : Varun Shah 
+ Class Roll-number: 76 
+ Stream : CSEAI 
+ Student ID : CSEAI2076
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 87 
+ Physics :- 86 
+ Electrical :- 85 
+ Mechanics :- 84 
+ PythonProgramming :- 83 
+ Biology :- 82 
+
+Total marks out of 600 is : 507 and Percentage scored is : 84%
+Your Performance has been Excellent...
+ Grade Obtained is :- B.

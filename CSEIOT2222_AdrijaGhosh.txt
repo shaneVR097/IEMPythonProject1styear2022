@@ -1,0 +1,18 @@
+ Student Name : Adrija Ghosh 
+ Class Roll-number: 22 
+ Stream : CSEIOT 
+ Student ID : CSEIOT2222
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 90 
+ Physics :- 91 
+ Electrical :- 92 
+ Mechanics :- 93 
+ PythonProgramming :- 94 
+ Biology :- 95 
+
+Total marks out of 600 is : 555 and Percentage scored is : 92%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

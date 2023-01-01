@@ -1,0 +1,18 @@
+ Student Name : Ishita Sen 
+ Class Roll-number: 12 
+ Stream : ECE 
+ Student ID : ECE2012
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 78 
+ Chemistry :- 0 
+ Electrical :- 90 
+ Mechanics :- 91 
+ PythonProgramming :- 82 
+ Biology :- 74 
+
+Total marks out of 600 is : 504 and Percentage scored is : 84%
+Your Performance has been Excellent...
+ Grade Obtained is :- B.
